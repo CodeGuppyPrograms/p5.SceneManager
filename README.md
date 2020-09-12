@@ -4,12 +4,9 @@ p5.js SceneManager
 News
 ----
 
-- A modified version of 'p5.js SceneManager' is a key component of [codeguppy.com](https://codeguppy.com) - a new coding site for kids, teens and creative adults.
+- [codeguppy.com](https://codeguppy.com) is using a modified version of 'p5.SceneManager' library. This allows users to easily create multi-scene programs / sketches / games in codeguppy.com without having to worry about scene management.
 
 [![JavaScript projects](img/creative_projects.png)](https://codeguppy.com)
-
-Note: If you are using p5.js SceneManager in your project, it will be great if you share the details of your project with me (totally optional though).
-
 
 Description
 -----------
