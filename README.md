@@ -1,15 +1,15 @@
 p5.js SceneManager
 ==================
 
-News
-----
+Scene management in codeguppy.com
+---------------------------------
 
 - [codeguppy.com](https://codeguppy.com) is using a modified version of 'p5.SceneManager' library. This allows users to easily create multi-scene programs / sketches / games in codeguppy.com without having to worry about scene management.
 
 [![JavaScript projects](img/creative_projects.png)](https://codeguppy.com)
 
-Description
------------
+Library Description
+-------------------
 
 p5.js SceneManager helps you create [p5.js](https://github.com/processing/p5.js) sketches with multiple states / scenes.
 Each scene is a like a sketch within the main sketch. You focus on creating
@@ -75,7 +75,9 @@ For demo please check sample.html, sample_instance.html and game.html
 Online demo
 -----------
 
-You can try online the SceneManager using the following demos:
+If you want to play with scenes in an online playground, just go to [codeguppy.com](https://codeguppy.com) code editor.
+
+To see some standalone demonstrations of SceneManager check out the following demos:
 
 - [sample.html](https://mveteanu.github.io/p5.SceneManager/sample.html)
 - [sample_instance.html](https://mveteanu.github.io/p5.SceneManager/sample_instance.html)
